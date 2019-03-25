@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="title_activity_employee_list">EmployeeListActivity</string>
+</resources>
